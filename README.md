@@ -1,5 +1,5 @@
 # IITK_MINI_MIPS
-This repository contains the course project of CS220A. We have made an Instruction Set Architecture with 25 Instructions using the verilog hardware description language.
+This repository contains the course project of CS220. We have made an Instruction Set Architecture with 25 Instructions using the verilog hardware description language.
 
 ## FILES AND FOLDERS IN THE PROJECT
 1) *problem.pdf* - Contains the explanantion of the problem statement required to be solved.
